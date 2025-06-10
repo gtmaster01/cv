@@ -1,0 +1,125 @@
+{
+  "basics": {
+    "name": "Marek Babka",
+    "label": "SDET / QA Automation Leader",
+    "email": "babkamarek96@gmail.com",
+    "phone": "+420 737 663 454",
+    "dob": "04.03.1996",
+    "location": "Praha, Česká republika",
+    "linkedin": "https://www.linkedin.com/in/marek-babka-04a8421a3/",
+    "summary": "Jsem QA Engineer s vášní pro automatizaci, DevOps a inovace v testování. Navrhuji a implementuji technická řešení, která posouvají kvalitu softwaru vpřed. Mám zkušenosti s pokročilou automatizací, CI/CD, optimalizací procesů a performance testingem – včetně AI-driven přístupů. Rád sdílím znalosti, posouvám hranice a pomáhám týmům dosahovat lepších výsledků."
+  },
+  "skills": [
+    {
+      "group": "Programování & Automatizace",
+      "items": ["Java (Selenium, Junit, Appium, Selenide)", "Groovy", "Ahk (makra)", "Python", "Bash scripting", "Rest Assured (Java)", "AI API"]
+    },
+    {
+      "group": "Testování & QA",
+      "items": ["Manuální a automatizované testování", "Performance testing (JMeter, SmartMeter)", "Test analýza", "Návrh a vývoj testovacích frameworků", "AI v testování", "Infrastruktura mobilní farmy", "Xray", "Allure"]
+    },
+    {
+      "group": "CI/CD & DevOps",
+      "items": ["Jenkins", "GitLab CI", "Git", "Docker", "Kubernetes", "ArgoCD", "UCD", "Vytváření nového serveru vč. testovacího prostředí", "Docker Compose", "Nginx", "GitHub", "Bitbucket"]
+    },
+    {
+      "group": "Nástroje & Monitoring",
+      "items": ["Grafana", "Kibana", "Elasticsearch", "SoapUI", "SQL", "Postman", "Jira", "IntelliJ IDEA", "VS Code", "Windows Services", "Confluence"]
+    },
+    {
+      "group": "AI nástroje & agenti",
+      "items": ["ChatGPT", "Claude", "Claude Code", "Cursor", "Devin", "Gemini (Google AI)"]
+    },
+    {
+      "group": "Soft skills",
+      "items": ["Leadership", "Sdílení znalostí", "Řešení problémů", "Inovace", "Kontinuální vzdělávání"]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Rohlík Group",
+      "position": "QA Automation Team Leader",
+      "startDate": "07/2024",
+      "endDate": "současnost",
+      "summary": "Vedení týmu QA automatizace, design a rozvoj testovacích frameworků, GitLab CI/CD (správa a vývoj pipeline), performance testing (JMeter), mentoring juniorů, rozvoj AI-driven testování."
+    },
+    {
+      "company": "Rohlík Group",
+      "position": "QA Engineer",
+      "startDate": "09/2022",
+      "endDate": "08/2024",
+      "summary": "Test automation – Java (Selenide, Appium, JUnit), údržba a vývoj GitLab CI/CD pipeline, performance testing – JMeter, spolupráce s vývojovými týmy na kvalitě produktu."
+    },
+    {
+      "company": "Komerční banka (KB)",
+      "position": "QA Automation Engineer",
+      "startDate": "10/2020",
+      "endDate": "09/2022",
+      "summary": "Vývoj automatizovaných testů (Selenium + Java), zapojení do CI/CD, test analýza, exekuce testů, podpora vývojových týmů."
+    },
+    {
+      "company": "Československá obchodní banka (ČSOB)",
+      "position": "Performance Script Developer",
+      "startDate": "07/2018",
+      "endDate": "10/2020",
+      "summary": "Příprava, exekuce a reporting performance testů napříč bankou, integrační testování, podpora a rozvoj testovacích nástrojů."
+    },
+    {
+      "company": "Ferros Praha, s.r.o.",
+      "position": "Technolog CNC strojů",
+      "startDate": "09/2015",
+      "endDate": "06/2018",
+      "summary": "Programování a obsluha CNC strojů na řezání železa."
+    }
+  ],
+  "projects": [
+    {
+      "name": "E-commerce Platform",
+      "description": "Komplexní e-commerce řešení s mikroservisní architekturou",
+      "technologies": ["React", "Node.js", "PostgreSQL", "Redis"],
+      "url": "https://github.com/jannovak/ecommerce"
+    },
+    {
+      "name": "Task Management SaaS",
+      "description": "Webová aplikace pro správu projektů s real-time spolupráci",
+      "technologies": ["Next.js", "GraphQL", "Prisma", "AWS"],
+      "url": "https://taskmanager.jannovak.dev"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Střední průmyslová škola na Proseku",
+      "studyType": "Mechanik-Elektronik",
+      "startDate": "2011",
+      "endDate": "2015",
+      "specialization": "Mechanik-Elektronik s maturitou"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Solutions Architect",
+      "issuer": "Amazon Web Services",
+      "date": "2023"
+    },
+    {
+      "name": "Professional Scrum Master I",
+      "issuer": "Scrum.org",
+      "date": "2022"
+    }
+  ],
+  "languages": [
+    { "language": "Čeština", "fluency": "Rodilý mluvčí" },
+    { "language": "Angličtina", "fluency": "Středně pokročilý" },
+    { "language": "Němčina", "fluency": "Základy" }
+  ],
+  "other": {
+    "interests": [
+      "Automatizace a inovace v testování",
+      "Programování a skriptování",
+      "E-sport a počítačové hry",
+      "Lyžování",
+      "Šifrovací hry",
+      "Sdílení znalostí a mentoring"
+    ]
+  }
+} 

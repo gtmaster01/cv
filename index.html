@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Marek Babka CV</title>
+  <meta name="description" content="Professional resume of Jan Novák - Senior Software Engineer" />
+  <meta name="author" content="Jan Novák" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Playfair+Display:wght@400;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="toolbar no-print">
+    <select id="lang-switcher">
+      <option value="en" selected>🇺🇸 English</option>
+      <option value="cz">🇨🇿 Čeština</option>
+    </select>
+    <button id="downloadPdf">📄 Download PDF</button>
+  </div>
+
+  <main id="cv-container" class="cv"></main>
+
+  <!-- Libraries & scripts -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js"></script>
+  <script src="main.js"></script>
+</body>
+</html> 

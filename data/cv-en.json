@@ -1,0 +1,94 @@
+{
+  "basics": {
+    "name": "Marek Babka",
+    "label": "SDET / QA Automation Leader",
+    "email": "babkamarek96@gmail.com",
+    "phone": "+420 737 663 454",
+    "dob": "04.03.1996",
+    "location": "Prague, Czech Republic",
+    "linkedin": "https://www.linkedin.com/in/marek-babka-04a8421a3/",
+    "summary": "I am a QA Engineer passionate about automation, DevOps and testing innovation. I design and implement technical solutions that elevate software quality. Experienced in advanced automation, CI/CD optimisation and performance testing – including the adoption of AI-driven testing approaches. I enjoy knowledge sharing, pushing boundaries and helping teams achieve better results."
+  },
+  "education": [
+    {
+      "institution": "Secondary Technical School Prosek",
+      "studyType": "Mechanic-Electronic with Graduation",
+      "startDate": "2011",
+      "endDate": "2015",
+      "specialization": "Mechanic-Electronic with Graduation"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Rohlík Group",
+      "position": "QA Automation Team Leader",
+      "startDate": "07/2024",
+      "endDate": "present",
+      "summary": "Leading QA automation team, designing and developing test frameworks, GitLab CI/CD pipeline maintenance and development, performance testing (JMeter), mentoring juniors, introducing AI-driven testing innovations."
+    },
+    {
+      "company": "Rohlík Group",
+      "position": "QA Engineer",
+      "startDate": "09/2022",
+      "endDate": "08/2024",
+      "summary": "Test automation – Java (Selenide, Appium, JUnit), GitLab CI/CD pipeline maintenance and development, performance testing – JMeter, collaborating with dev teams to ensure product quality."
+    },
+    {
+      "company": "Komerční banka (KB)",
+      "position": "QA Automation Engineer",
+      "startDate": "10/2020",
+      "endDate": "09/2022",
+      "summary": "Developed automated tests (Selenium + Java), integrated them into CI/CD, performed test analysis and execution, supported development teams."
+    },
+    {
+      "company": "Československá obchodní banka (ČSOB)",
+      "position": "Performance Script Developer",
+      "startDate": "07/2018",
+      "endDate": "10/2020",
+      "summary": "Preparation, execution and reporting of performance tests across the bank, integration testing, support and development of testing tools."
+    },
+    {
+      "company": "Ferros Praha, s.r.o.",
+      "position": "Technologist",
+      "startDate": "09/2015",
+      "endDate": "06/2018",
+      "summary": "Programming and operating CNC iron cutting machines."
+    }
+  ],
+  "skills": [
+    {
+      "group": "Programming & Automation",
+      "items": ["Java (Selenium, JUnit, Appium, Selenide)", "Groovy", "Ahk (macros)", "Python", "Bash scripting", "Rest Assured (Java)", "AI API"]
+    },
+    {
+      "group": "Testing & QA",
+      "items": ["Manual & automated testing", "Performance testing (JMeter, SmartMeter)", "Test analysis", "Design & development of test frameworks", "AI in testing", "Mobile farm infrastructure", "Xray", "Allure"]
+    },
+    {
+      "group": "CI/CD & DevOps",
+      "items": ["Jenkins", "GitLab CI", "Git", "Docker", "Kubernetes", "ArgoCD", "UCD", "Server provisioning incl. test environments", "Docker Compose", "Nginx", "GitHub", "Bitbucket"]
+    },
+    {
+      "group": "Tools & Monitoring",
+      "items": ["Grafana", "Kibana", "Elasticsearch", "SoapUI", "SQL", "Postman", "Jira", "IntelliJ IDEA", "VS Code", "Windows Services", "Confluence"]
+    },
+    {
+      "group": "Soft skills",
+      "items": ["Leadership", "Knowledge sharing", "Problem solving", "Innovation", "Continuous learning"]
+    },
+    {
+      "group": "AI Tools & Agents",
+      "items": ["ChatGPT", "Claude", "Claude Code", "Cursor", "Devin", "Gemini (Google AI)"]
+    }
+  ],
+  "languages": [
+    { "language": "Czech", "fluency": "Native" },
+    { "language": "English", "fluency": "Intermediate" },
+    { "language": "German", "fluency": "Basic" }
+  ],
+  "other": {
+    "branchModels": ["Trunk based development (micro-services)", "Git flow"],
+    "devMethods": ["Agile (at least try)", "DevOps (some kind)", "Waterfall"],
+    "interests": ["Computer games (e-sport)", "automation", "programming / scripting", "learning about new technologies", "skiing", "encryption games"]
+  }
+} 
