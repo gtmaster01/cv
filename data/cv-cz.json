@@ -12,19 +12,19 @@
   "skills": [
     {
       "group": "Programování & Automatizace",
-      "items": ["Java (Selenium, Junit, Appium, Selenide)", "Groovy", "Ahk (makra)", "Python", "Bash scripting", "Rest Assured (Java)", "AI API"]
+      "items": ["Java (Selenium, Junit, Appium, Selenide)", "Groovy", "Ahk (makra)", "Python", "Bash scripting", "Rest Assured (Java)", "AI API", "Vue.js"]
     },
     {
       "group": "Testování & QA",
-      "items": ["Manuální a automatizované testování", "Performance testing (JMeter, SmartMeter)", "Test analýza", "Návrh a vývoj testovacích frameworků", "AI v testování", "Infrastruktura mobilní farmy", "Xray", "Allure"]
+      "items": ["Manuální a automatizované testování", "Performance testing (JMeter, SmartMeter)", "Test analýza", "Návrh a vývoj testovacích frameworků", "AI v testování", "Infrastruktura mobilní farmy", "Xray", "Allure", "Linear"]
     },
     {
       "group": "CI/CD & DevOps",
-      "items": ["Jenkins", "GitLab CI", "Git", "Docker", "Kubernetes", "ArgoCD", "UCD", "Vytváření nového serveru vč. testovacího prostředí", "Docker Compose", "Nginx", "GitHub", "Bitbucket"]
+      "items": ["Jenkins", "GitLab CI", "Git", "Docker", "Kubernetes", "ArgoCD", "UCD", "Vytváření nového serveru vč. testovacího prostředí", "Docker Compose", "Nginx", "GitHub", "Bitbucket", "Microservices","MySQL","PostgreSQL(Supabase)"]
     },
     {
       "group": "Nástroje & Monitoring",
-      "items": ["Grafana", "Kibana", "Elasticsearch", "SoapUI", "SQL", "Postman", "Jira", "IntelliJ IDEA", "VS Code", "Windows Services", "Confluence"]
+      "items": ["Grafana", "Kibana", "Elasticsearch", "SoapUI", "Postman", "Jira", "IntelliJ IDEA", "VS Code", "Windows Services", "Confluence"]
     },
     {
       "group": "AI nástroje & agenti",
@@ -38,9 +38,16 @@
   "experience": [
     {
       "company": "Rohlík Group",
+      "position": "SDET - Platform team",
+      "startDate": "07/2025",
+      "endDate": "současnost",
+      "summary": "Spolupráce s devOps teamem, školení juniorů, AI inovace, vývoj interních aplikací, performance testing (JMeter) "
+    },
+    {
+      "company": "Rohlík Group",
       "position": "QA Automation Team Leader",
       "startDate": "07/2024",
-      "endDate": "současnost",
+      "endDate": "06/2025",
       "summary": "Vedení týmu QA automatizace, design a rozvoj testovacích frameworků, GitLab CI/CD (správa a vývoj pipeline), performance testing (JMeter), mentoring juniorů, rozvoj AI-driven testování."
     },
     {

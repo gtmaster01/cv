@@ -21,9 +21,16 @@
   "experience": [
     {
       "company": "Rohlík Group",
+      "position": "SDET - Platform team",
+      "startDate": "07/2025",
+      "endDate": "Present",
+      "summary": "Close coopertion with DevOps team, mentoring juniors, AI testing innovations, Full stack development intern applications, performance testing (JMeter)"
+    },
+    {
+      "company": "Rohlík Group",
       "position": "QA Automation Team Leader",
       "startDate": "07/2024",
-      "endDate": "present",
+      "endDate": "06/2025",
       "summary": "Leading QA automation team, designing and developing test frameworks, GitLab CI/CD pipeline maintenance and development, performance testing (JMeter), mentoring juniors, introducing AI-driven testing innovations."
     },
     {
@@ -62,15 +69,15 @@
     },
     {
       "group": "Testing & QA",
-      "items": ["Manual & automated testing", "Performance testing (JMeter, SmartMeter)", "Test analysis", "Design & development of test frameworks", "AI in testing", "Mobile farm infrastructure", "Xray", "Allure"]
+      "items": ["Manual & automated testing", "Performance testing (JMeter, SmartMeter)", "Test analysis", "Design & development of test frameworks", "AI in testing", "Mobile farm infrastructure", "Xray", "Allure", "Linear"]
     },
     {
       "group": "CI/CD & DevOps",
-      "items": ["Jenkins", "GitLab CI", "Git", "Docker", "Kubernetes", "ArgoCD", "UCD", "Server provisioning incl. test environments", "Docker Compose", "Nginx", "GitHub", "Bitbucket"]
+      "items": ["Jenkins", "GitLab CI", "Git", "Docker", "Kubernetes", "ArgoCD", "UCD", "Server provisioning incl. test environments", "Docker Compose", "Nginx", "GitHub", "Bitbucket", "Microservices","MySQL","PostgreSQL(Supabase)"]
     },
     {
       "group": "Tools & Monitoring",
-      "items": ["Grafana", "Kibana", "Elasticsearch", "SoapUI", "SQL", "Postman", "Jira", "IntelliJ IDEA", "VS Code", "Windows Services", "Confluence"]
+      "items": ["Grafana", "Kibana", "Elasticsearch", "SoapUI", "Postman", "Jira", "IntelliJ IDEA", "VS Code", "Windows Services", "Confluence"]
     },
     {
       "group": "Soft skills",
