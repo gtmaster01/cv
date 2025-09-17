@@ -61,7 +61,7 @@ h1 {
 .header {
   background: var(--card-bg);
   padding: 3rem 3rem 2.5rem;
-  border-radius: 20px 20px 0 0;
+  border-radius: 0;
   box-shadow: var(--shadow);
   text-align: left !important;
   position: relative;
@@ -137,7 +137,7 @@ h1 {
 }
 
 .section:last-child {
-  border-radius: 0 0 20px 20px;
+  border-radius: 0;
   border-bottom: 1px solid var(--border);
 }
 
@@ -225,7 +225,7 @@ h1 {
   border: 1px solid var(--border);
   border-left: 5px solid var(--accent);
   padding: 1rem 1.5rem;
-  border-radius: 8px;
+  border-radius: 0;
   margin-bottom: 1rem;
   box-shadow: 0 2px 4px rgba(0,0,0,0.03);
   transition: transform 0.2s ease, box-shadow 0.2s ease;
@@ -282,7 +282,7 @@ h1 {
 .languages li {
   padding: 1rem;
   background: #f8fafc;
-  border-radius: 12px;
+  border-radius: 0;
   border-left: 4px solid var(--accent);
   font-weight: 500;
   color: var(--text);
@@ -300,7 +300,7 @@ h1 {
     border: 1px solid var(--border);
     border-left: 5px solid var(--accent);
     padding: 1rem 1.5rem;
-    border-radius: 8px;
+    border-radius: 0;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -324,7 +324,7 @@ h1 {
     color: var(--text-light);
     background-color: #f1f5f9;
     padding: 0.2rem 0.6rem;
-    border-radius: 10px;
+    border-radius: 0;
 }
 
 .interest-list {
